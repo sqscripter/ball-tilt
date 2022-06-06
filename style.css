@@ -1,0 +1,12 @@
+body{
+  font-family: subpixel-antialiased;
+}
+#ball{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 98px;
+  height: 98px;
+
+  border-radius:900px;
+}
